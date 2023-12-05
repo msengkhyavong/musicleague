@@ -1,0 +1,14 @@
+.Login {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    height: 70%;
+    outline: 3px solid;
+    outline-color: #AC9FBB;
+    background-color: white;
+}
+
+.login-home {
+    font-size: large;
+}
